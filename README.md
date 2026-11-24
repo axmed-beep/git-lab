@@ -1,2 +1,2 @@
-# Git Lab: feature version
+# Git Lab: combined version
 line 2
